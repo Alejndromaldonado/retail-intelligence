@@ -1,0 +1,19 @@
+# Datos crudos y procesados (no subir)
+data/raw/
+data/processed/
+
+# Binarios grandes
+*.pbix
+models/*.pkl
+*.parquet
+
+# Entorno
+.env
+__pycache__/
+.ipynb_checkpoints/
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db

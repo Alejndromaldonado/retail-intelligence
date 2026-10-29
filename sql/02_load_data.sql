@@ -1,0 +1,5 @@
+-- 02_load_data.sql
+-- Nota: la carga se hace desde Python (src/load_data.py) porque los CSV
+-- vienen de Kaggle con nombres específicos. Este archivo queda como referencia
+-- de los INSERT/transformaciones hacia el modelo estrella.
+-- Ver src/load_data.py para la implementación.
